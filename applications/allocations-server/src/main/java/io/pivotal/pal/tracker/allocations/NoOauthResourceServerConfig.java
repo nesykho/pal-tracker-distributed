@@ -1,4 +1,4 @@
-package test.pivotal.pal.tracker.registration;
+package io.pivotal.pal.tracker.allocations;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;

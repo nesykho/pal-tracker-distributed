@@ -1,4 +1,4 @@
-package test.pivotal.pal.tracker.backlog;
+package io.pivotal.pal.tracker.timesheets;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
